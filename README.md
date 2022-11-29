@@ -16,8 +16,7 @@
 
 
 ## 3. 프로젝트 소개
-![](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20221129141200818.png)
-
+![그림1](https://user-images.githubusercontent.com/92667582/204476259-f593fd96-0fb5-4d32-a7c8-de68fbc84710.png)
 
 ## 4. 참고문헌
 1.	써브웨이 공식 애플리케이션:
