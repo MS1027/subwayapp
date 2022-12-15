@@ -22,7 +22,8 @@
 1. 기존의 써브웨이 고객 층이 선호하던 샌드위치 재료의 조합 데이터를 수집한다.
 2. 위에서 수집한 데이터를 이용해 서로 어울리는 샌드위치 조합을 추천해주는 머신러닝 모델을 제작한다.
 
-![image-20221215122258744](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20221215122258744.png)
+![1](https://user-images.githubusercontent.com/92667582/207766415-8c1752dc-3fad-472b-a6f3-9b30edb6a7da.png)
+
 
 
 ## 4. 참고문헌
